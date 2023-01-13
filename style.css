@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+}
+img {
+    height: 200px;
+    width: 220px;
+}
+.blue-dot{
+    color: blue;
+}
+.not{
+    color: black;
+}
+.a-link {
+    color: green;
+    font-weight: bold;
+}
+div{
+    color:black;
+}
+.num {
+    color: blue;
+}
