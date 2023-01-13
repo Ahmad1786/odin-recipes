@@ -1,23 +1,20 @@
 h1 {
     color:red;
 }
-img {
+.index {
     height: 200px;
     width: 220px;
 }
-.blue-dot{
+.blue-dot,
+.num {
     color: blue;
 }
-.not{
+.not, 
+div{
     color: black;
 }
 .a-link {
     color: green;
     font-weight: bold;
 }
-div{
-    color:black;
-}
-.num {
-    color: blue;
-}
+
